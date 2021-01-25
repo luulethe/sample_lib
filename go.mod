@@ -1,3 +1,3 @@
-module github.com/sample_lib
+module github.com/luulethe/sample_lib
 
 go 1.15
