@@ -1,5 +1,5 @@
 package sample_lib
 
 func Hello() string {
-	return "Hello Luu"
+	return "Hello Luu 1"
 }
